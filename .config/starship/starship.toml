@@ -8,10 +8,6 @@ format = '''
 [▶ ](black)
 '''
 
-#[os]
-#format = '[$symbol ]'
-#[os.symbols]
-#Arch = '[](blue)'
 
 [fill]
 symbol = ' '
