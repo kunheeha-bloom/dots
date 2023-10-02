@@ -45,6 +45,7 @@ bindkey '^[[B' history-substring-search-down
 
 # ALIASES
 source ~/.config/aliases/aliases.zsh
+source ~/.config/aliases/project_dir_aliases.zsh
 
 
 # Starship Prompt
