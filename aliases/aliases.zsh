@@ -34,8 +34,10 @@ alias gm='git merge'
 alias gmc='git merge --continue'
 alias gf='git fetch'
 alias gwa='git worktree add'
+alias gwd='git worktree remove'
 alias gd='git diff'
 alias gdc='git diff --cached'
+alias gcp='git cherry-pick -S'
 
 # ##################
 # TMUX

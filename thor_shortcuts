@@ -1,0 +1,32 @@
+[
+  {
+    "appBundleURL" : "file:\/\/\/Applications\/kitty.app\/",
+    "shortcut" : "alt+Enter",
+    "appDisplayName" : "kitty"
+  },
+  {
+    "appBundleURL" : "file:\/\/\/Users\/kunhee\/Applications\/Google%20Chrome.app\/",
+    "shortcut" : "alt+w",
+    "appDisplayName" : "Google Chrome"
+  },
+  {
+    "appBundleURL" : "file:\/\/\/Users\/kunhee\/Applications\/Slack.app\/",
+    "appDisplayName" : "Slack",
+    "shortcut" : "alt+s"
+  },
+  {
+    "shortcut" : "alt+l",
+    "appBundleURL" : "file:\/\/\/Users\/kunhee\/Applications\/Linear.app\/",
+    "appDisplayName" : "Linear"
+  },
+  {
+    "shortcut" : "alt+m",
+    "appBundleURL" : "file:\/\/\/System\/Applications\/Music.app\/",
+    "appDisplayName" : "Music"
+  },
+  {
+    "shortcut" : "alt+n",
+    "appBundleURL" : "file:\/\/\/Users\/kunhee\/Applications\/Notion.app\/",
+    "appDisplayName" : "Notion"
+  }
+]
